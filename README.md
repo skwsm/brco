@@ -1,1 +1,1 @@
-# brco
+# BRCO: Biological Resource Center Ontology
